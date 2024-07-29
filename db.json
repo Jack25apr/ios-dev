@@ -7,21 +7,21 @@
         [
             {
                 "code": 758271,
-                "name": "1 commodo ullamco est",
+                "name": "commodo ullamco est",
                 "brand": "Xoggle",
                 "price": 599.44,
-                "image_url": ""
+                "image_url": "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             },
             {
                 "code": 692937,
-                "name": "2 adipisicing fugiat",
+                "name": "adipisicing fugiat",
                 "brand": "Macronaut",
                 "price": 1696.02,
                 "image_url": "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             },
             {
                 "code": 520136,
-                "name": "3 sunt",
+                "name": "sunt",
                 "brand": "Twiist",
                 "price": 942.83,
                 "image_url": "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -210,7 +210,7 @@
             },
             {
                 "code": 655516,
-                "name": "pariatur eiusmod voluptate!",
+                "name": "pariatur eiusmod voluptate",
                 "brand": "Lunchpod",
                 "price": 1414.3,
                 "image_url": "https://images.pexels.com/photos/4041391/pexels-photo-4041391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
