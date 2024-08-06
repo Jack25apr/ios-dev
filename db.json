@@ -2,7 +2,7 @@
     "test-product-listing":
     {
         "title": "Test",
-        "button_text": "Discover",
+        "button_text": "DiscoverMain",
         "products":
         [
             {
