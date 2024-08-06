@@ -1,4 +1,6 @@
 {
+    "test-product-listing":
+    {
         "title": "Test",
         "button_text": "Discover",
         "products":
@@ -12,8 +14,8 @@
             },
             {
                 "code": 692937,
-                "name": "adipisicing fugiat adipisicing fugiat adipisicing fugiat adipisicing fugiat adipisicing fugiat END.",
-                "brand": "Macronaut Macronaut Macronaut Macronaut Macronaut",
+                "name": "adipisicing fugiat",
+                "brand": "Macronaut",
                 "price": 1696.02,
                 "image_url": "https://dummyimage.com/1000x1000/00000a/ffffff.png&text=2"
             },
@@ -208,10 +210,11 @@
             },
             {
                 "code": 655516,
-                "name": "pariatur eiusmod voluptate",
+                "name": "pariatur eiusmod voluptate!",
                 "brand": "Lunchpod",
                 "price": 1414.3,
                 "image_url": "https://dummyimage.com/1000x1000/00009f/ffffff.png&text=30"
             }
         ]
+    }
 }
